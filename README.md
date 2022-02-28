@@ -5,10 +5,8 @@ Workshop material *Blender & Web: creative worlds ;-)* - created for [*Blender 3
 
 ## Description
 Lust eine Blender-Scene interaktive als Website zu veröffentlichen? Doch noch keine Idee wie das geht?
+Wir werden eine vorgefertigte Blender-Scene als 'A-Frame'-Projekt exportieren und anhand dieser die Verschiedenen Möglichkeiten erkunden.
 
-In diesem Workshop möchte ich dir einen einfachen Weg aufzeigen -
-mit Hilfe des A-Frame Web-Frameworks und einem Blender-Exporter - dies einfach umzusetzen..
-Wir werden eine einfache (schon fertige Szene) als Website exportieren und die Verschiedenen Möglichkeiten und Optionen kennen lernen.
 
 ## Topics
 - wie ist eine A-Frame Scene aufgebaut
@@ -17,3 +15,10 @@ Wir werden eine einfache (schon fertige Szene) als Website exportieren und die V
     - Optionen kennenlernen
 - interaktive Elemente
 - eventuel: erweiterte anpassungsmöglichkeiten (=eigene Javascript Programmierung)
+
+## requirements
+grundlegende Bedienung von Blender
+grundlegende kenntnisse von HTML & JS von vorteil
+
+## Tags
+export, basics, Web, A-Frame, workflow, pipeline

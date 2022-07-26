@@ -1,7 +1,10 @@
+<!--lint disable list-item-indent-->
+<!--lint disable list-item-bullet-indent-->
+
 # Workshop__Blender_Web_creative_worlds
 Workshop material *Blender & Web: creative worlds ;-)* - created for [*Blender 3D Summer School*](https://blender3dschool.de/)
 
-![cover](cover.png)
+![Screenshot mit Blender und Firefox Browser Seite an Seite](cover.png)
 
 ## Description
 Lust eine Blender-Scene interaktive als Website zu veröffentlichen? Doch noch keine Idee wie das geht?
@@ -14,11 +17,11 @@ Wir werden eine vorgefertigte Blender-Scene als 'A-Frame'-Projekt exportieren un
     - Funktionsweise: was macht der Exporter eigentlich?
     - Optionen kennenlernen
 - interaktive Elemente
-- eventuel: erweiterte anpassungsmöglichkeiten (=eigene Javascript Programmierung)
+- eventuell: erweiterte anpassungsmöglichkeiten (=eigene Javascript Programmierung)
 
 ## requirements
 grundlegende Bedienung von Blender
-grundlegende kenntnisse von HTML & JS von vorteil
+grundlegende Kenntnisse von HTML & JS von Vorteil
 
 ## Tags
 export, basics, Web, A-Frame, workflow, pipeline

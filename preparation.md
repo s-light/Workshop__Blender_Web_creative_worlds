@@ -1,32 +1,20 @@
 # Workshop FreeCAD loves Blender
+<!--lint disable list-item-indent-->
+<!--lint disable list-item-bullet-indent-->
+
 ## Vorbereitungen
-Bitte schon folgende Software vor start des Workshops Installieren und einmal testen das sie Startet:
-- die [aktuelle Blender-Version 2.93.1](https://www.blender.org/download/)
-- den [aktuelle Stable Release FreeCAD 0.19.2](https://www.freecadweb.org/downloads.php)
-
-gerne auch schon mal mit den *gettet Startet* guides rum experimentieren -
-- [getting startet FreeCAD](https://wiki.freecadweb.org/Getting_started)
-- [getting started blender](https://docs.blender.org/manual/en/dev/)
-
-Gerne auch schon mal nach dem Blender FreeCAD import Addon schauen:
-- [io_import_fcstd](https://github.com/s-light/io_import_fcstd/)
-
-für dieses ist es momentan noch hilfreich kein Linux AppImage bei FreeCAd zu haben.
-doch ich versuche noch eine Lösung für die AppImage Variante einzubauen.
-bei Fragen zu dieser Installation gerne auch vorab schon ein  [Forums-Post](https://forum.freecadweb.org/viewtopic.php?f=22&t=39778) oder  [github issue](https://github.com/s-light/io_import_fcstd/issues) erstellen.
+Bitte schon folgende Software vor Start des Workshops Installieren und einmal testen das sie Startet:
+- die [aktuelle Blender-Version 3.2.1](https://www.blender.org/download/)
+- Web-Browser [Firefox](https://www.mozilla.org/en-US/firefox/new)
+    (so das wir alle eine identische Grundlage haben)
 
 
-## Ablauf
-Wir werden uns am Anfang das User-Interface von Blender und das von FreeCAD anschauen -
-dann mal ein einfaches Teil in beiden Programmen *konstruieren*.
-Anhand diese Teils die Unterschiede beleuchten..
-- Warum / Für was eignet sich welches tool?
-- Was sind die *internen* Unterschiede?
-- ...
+Gerne auch schon mal das Blender A-Frame Exporter Addon installieren -
+(wir verwenden eine von mir modifizierte/erweiterten Version)
+- [Download](https://github.com/s-light/aframe_blender_exporter/archive/refs/heads/dev_rebase.zip)
+- Blender Öffnen
+- `Edit -> Preferences -> Add-ons -> Install`
+- Navigiere zu dem ZIP-File
 
-Als zweiten Teil ist geplant die Verbindung der beiden Programme anzuschauen -
-um so jeweils die Stärken zu nutzen und gegenseitig zu ergänzen
-- empfehlenswertes Formate zum Austausch
-- Vorteile des Addon
-
-Am ende möchte ich den Raum auch noch mal für konkretere Fragen öffnen.
+Alternative kannst du natürlich auch gern das [repository](https://github.com/s-light/aframe_blender_exporter/tree/dev_rebase) in dein Blender-Addon-Verzeichnis Klonen..
+wichtig ist hier dann in den `dev_rebase` branch zu wechseln.
